@@ -31,3 +31,8 @@ I am a Full Stack Developer at Finonest India Pvt Ltd, where I bridge the gap be
 [![](https://visitcount.itsvg.in/api?id=sparshjain28&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&text=%22Bridging%20finance%20and%20technology%20through%20scalable,%20AI-driven%20solutions.%22&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
