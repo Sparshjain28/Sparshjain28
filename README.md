@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=true&text=Sparshjain28&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+
+
 # 💫 About Me:
 I am a Full Stack Developer at Finonest India Pvt Ltd, where I bridge the gap between complex backend architecture and seamless user experiences. With 8 months of professional experience in the fintech space, I thrive on building scalable, high-performance web and mobile applications.<br><br>Currently, I am deeply focused on the evolving landscape of AI. I am actively building production-level AI agents and integrating intelligent automation into web and mobile ecosystems. My goal is to leverage these technologies to create smarter, more efficient financial solutions.<br><br>I am always eager to connect with innovators in the fintech and broader tech sectors. If you are working on cutting-edge software or looking to collaborate on projects that push the boundaries of AI-driven applications, I would love to chat.
 
